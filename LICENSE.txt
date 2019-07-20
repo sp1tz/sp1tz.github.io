@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 SP1TZ
+Copyright (c) 2019 SP1TZ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
